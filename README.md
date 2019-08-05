@@ -1,6 +1,4 @@
-# React Webpack
-
-A ready to use simple boilerplate for React Apps.
+# Webpack React Apps.
 
 ## Instructions
 
