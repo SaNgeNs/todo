@@ -1,4 +1,4 @@
-# Simple React Webpack boilerplate
+# React Webpack
 
 A ready to use simple boilerplate for React Apps.
 
